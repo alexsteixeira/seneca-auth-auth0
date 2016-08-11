@@ -1,0 +1,30 @@
+{
+  "name": "seneca-auth-auth0",
+  "version": "0.0.1",
+  "description": "auth0 auth plugin for seneca-auth",
+  "main": "auth0-auth.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxstx/seneca-auth-auth0.git"
+  },
+  "keywords": [
+    "seneca",
+    "oauth",
+    "auth",
+    "auth0",
+    "plugin"
+  ],
+  "author": "Alexsandro Teixeira",
+  "email": "alexsandrot@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxstx/seneca-auth-auth0/issues"
+  },
+  "homepage": "https://github.com/alxstx/seneca-auth-auth0#readme",
+  "dependencies": {
+    "passport-auth0": "^0.5.2"
+  }
+}
